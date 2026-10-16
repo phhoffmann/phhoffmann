@@ -36,8 +36,6 @@ I build scalable web interfaces in the TypeScript ecosystem — React and Next.j
 ## 🚀 Projects
 
 - **[ecofoco](https://github.com/phhoffmann/ecofoco)** — Android-first focus app (Forest-style) themed on Brazil's six biomes: focus sessions grow an isometric garden and fill a collection of ~185 native species. Offline-first with SQLite, sync backend in progress. Built with an AI-assisted workflow.
-- **[neetcode-submissions](https://github.com/phhoffmann/neetcode-submissions)** — my DSA practice in TypeScript.
-
 ## 🎓 Education
 
 **Internet Systems Technology** — FMU · 2020
